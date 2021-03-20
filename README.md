@@ -1,4 +1,4 @@
-# UN_Population_interactive_APP
+# UN Population Interactive Application
 
 We have used the United Nationa Department of Economic and Social Affairs population data to create this interactive application. You can access the website from the following link:
 
