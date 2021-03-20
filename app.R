@@ -659,9 +659,10 @@ ui <- fluidPage(
       
       div(style="display:inline-block", numericInput("width_1", "Width:", min = 1, max = 15, value = 4.5,step = .5,
                    width = "70px")),
+      tags$h5("=============================="),
   
       #ui for the population broad age chart----    
-      br(),
+      
       tags$h4((tags$b(("Population by broad age group Chart")))), 
       
       selectInput(inputId = "country_pop", label = "Select a country", choices = NULL),
