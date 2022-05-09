@@ -10,3 +10,7 @@ To create the population pyramid charts we used following data excel from the ab
 
 To create population chart by broad age group, we used the following dataset:
 * Total population by broad age group- both sexes
+
+Link to the dashboard can be found below:
+
+https://centerforpolicyimpact.shinyapps.io/un_population_interactive_app/
